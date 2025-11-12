@@ -10,6 +10,10 @@ A comprehensive machine learning application for predicting multiple diseases in
 
 This system implements multiple machine learning models to predict the likelihood of three major diseases based on medical parameters. The application compares different algorithms and uses the best performing model for each disease type.
 
+## 🔗 Live Demo
+
+🌐 **[Try the app live here](https://disease-prediction-system-jxb2jmxi9vc3erqn37jvfo.streamlit.app/)
+
 ## Screenshots
 ![Home](images/home.png)
 ![Diabetes](images/diabetes.png)
