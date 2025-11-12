@@ -21,8 +21,8 @@ data/*
 !data/.gitkeep
 
 # Models
-models/*.pkl
-models/*.joblib
+# models/*.pkl
+# models/*.joblib
 !models/.gitkeep
 
 # OS
@@ -38,3 +38,4 @@ models/*.joblib
 
 # Streamlit
 .streamlit/secrets.toml
+
